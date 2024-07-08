@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmINormal", "AmINormal\AmINormal.csproj", "{7FB3BF14-8DEC-4C7E-8025-71521BE34435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmINormal.Tests", "AmINormal.Tests\AmINormal.Tests.csproj", "{00ED4791-3749-405D-B0C3-2FF540AE128D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB3BF14-8DEC-4C7E-8025-71521BE34435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB3BF14-8DEC-4C7E-8025-71521BE34435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB3BF14-8DEC-4C7E-8025-71521BE34435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB3BF14-8DEC-4C7E-8025-71521BE34435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00ED4791-3749-405D-B0C3-2FF540AE128D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00ED4791-3749-405D-B0C3-2FF540AE128D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00ED4791-3749-405D-B0C3-2FF540AE128D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00ED4791-3749-405D-B0C3-2FF540AE128D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
